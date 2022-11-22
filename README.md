@@ -24,7 +24,8 @@ At the moment I am student at Yandex Practicum in a team of experienced mentors 
   
   
 ### Contact me
-✅[Telegram](https://t.me/vredit)
+ Telegram: https://t.me/vredit  
+ Habr Career: https://career.habr.com/annapanteleeva94
 ______________________
 
 ### Обо мне
@@ -47,4 +48,5 @@ ______________________
 
 
 ### Контакты
-✅[Telegram](https://t.me/vredit)
+Телеграм https://t.me/vredit  
+Хабр Карьера: https://career.habr.com/annapanteleeva94
