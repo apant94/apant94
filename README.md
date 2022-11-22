@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Anna 👋
+### Junior frontend-developer and student of Web-development
 
 <!--
 **apant94/apant94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
