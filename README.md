@@ -23,7 +23,7 @@ At the moment I am student at Yandex Practicum in a team of experienced mentors 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
   
   
-### Contact me  
+### Contact me
 ✅[Telegram](https://t.me/vredit)
 ______________________
 
