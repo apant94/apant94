@@ -1,5 +1,8 @@
 ![Описание](/header.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+frontend+developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Cascadia+Code&size=22&duration=3000&pause=3000&color=F7F7F7&width=435&lines=Junior+frontend+developer+%2F+student)](https://git.io/typing-svg)
+
+_______________________
 
 ### About me
 I wish to implement cool and useful projects and improve them. 
@@ -8,26 +11,26 @@ After this experience, I became a fan of the unlimited possibilities of web deve
 Most importantly, what I like the most is to see the result of my work, so the frontend is my perfect match.
 
 ### I work with
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
+CSS3
+HTML5
+JavaScript
+React.js
+Node.js
+Webpack
+Git
+Figma
+Adobe Photoshop
+📁 Методология БЭМ
+📲 Адаптивная верстка
+💻 API
 
-<!--
-**apant94/apant94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+______________________
 
-Here are some ideas to get you started:
+### Обо мне
+Мечтаю участвовать в воплощении классных и полезных проектов и улучшать их. 
+Во-первых, как владелец своего бренда одежды, я люблю делать что-то красивое и практичное своими руками, а во-вторых, я уже выводила свой бренд в онлайн плоскость.
+После такого опыта я стала фанатом неограниченных возможностей вебразработки. Самое главное, что больше всего мне нравится видеть результат своей работы, поэтому frontend - мой идеальный мэтч.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+На данный момент учусь на Яндекс Практикуме в команде опытных менторов и веб-разработчиков, а также практикуюсь через пет-проекты.
+
+### Я знаю
