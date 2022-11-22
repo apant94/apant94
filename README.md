@@ -5,25 +5,25 @@
 _______________________
 
 ### About me
-I wish to implement cool and useful projects and improve them. 
-Firstly, as the owner of clothing brand, I love to make something beautiful and practical with my own hands, and secondly, I have already brought my brand online.
-After this experience, I became a fan of the unlimited possibilities of web development. 
-Most importantly, what I like the most is to see the result of my work, so the frontend is my perfect match.
+I wish to implement cool and useful projects and improve them.  
+Firstly, as the owner of clothing brand, I love to make something beautiful and practical with my own hands, and secondly, I have already brought my brand online.  
+After this experience, I became a fan of the unlimited possibilities of web development.  
+Most importantly, what I like the most is to see the result of my work, so the frontend is my perfect match.  
+At the moment I am student at Yandex Practicum in a team of experienced mentors and web developers, and also practicing through pet projects.
 
-### I work with
-CSS3
-HTML5
-JavaScript
-React.js
-Node.js
-Webpack
-Git
-Figma
-Adobe Photoshop
-📁 Методология БЭМ
-📲 Адаптивная верстка
-💻 API
-
+### I work with  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+  
+### Contact me  
+✅[Telegram](https://t.me/vredit)
 ______________________
 
 ### Обо мне
@@ -33,4 +33,16 @@ ______________________
 
 На данный момент учусь на Яндекс Практикуме в команде опытных менторов и веб-разработчиков, а также практикуюсь через пет-проекты.
 
-### Я знаю
+### Я знаю  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+### Контакты
+✅[Telegram](https://t.me/vredit)
