@@ -1,6 +1,6 @@
 ![Описание](/header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Cascadia+Code&size=22&duration=3000&pause=3000&color=F7F7F7&width=435&lines=Junior+frontend+разработчик)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=+Cascadia+Code&size=22&duration=3000&pause=3000&color=F7F7F7&width=435&lines=Frontend+разработчик)](https://git.io/typing-svg)
 
 _______________________
 
