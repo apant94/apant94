@@ -21,4 +21,4 @@ _______________________
 E-mail: apanteleevadev@gmail.com  
 
 ___________
-https://www.codewars.com/users/Annette%20Panteleeva/badges/large
+![image](https://user-images.githubusercontent.com/103651974/216382628-9c9abca2-01b1-40d5-8886-caee35b2d773.png)
