@@ -5,7 +5,7 @@
 _______________________
 
 ### Обо мне
-Можно найти в моем [резюме](https://www.dropbox.com/s/irlga8w5vty78us/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0_birka.pdf?dl=0)
+Можно найти в моем [резюме](https://www.dropbox.com/scl/fi/wdzikvahlh5abxofbasrz/.pdf?rlkey=twofv3xydablst425bgfw6665&dl=0)
 
 На данный момент разрабатываю 3 приложения:  
 1. Таймер Duellio для клуба переговоров  
