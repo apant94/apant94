@@ -5,7 +5,7 @@
 _______________________
 
 ### Обо мне
-Можно найти в моем [резюме](https://www.dropbox.com/scl/fi/wdzikvahlh5abxofbasrz/.pdf?rlkey=twofv3xydablst425bgfw6665&dl=0)
+Можно найти в моем [резюме](https://www.dropbox.com/scl/fi/a0f9oyiz3v66r0ui52lf1/_.pdf?rlkey=6ube8itfei9l0wfp3lmne3h8o&dl=0)
 
 На данный момент разрабатываю 2 приложения:  
 1. Платформа для обучения добровольцев ЛизаАлерт
