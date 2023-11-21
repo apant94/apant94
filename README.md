@@ -9,7 +9,7 @@ _______________________
 
 На данный момент разрабатываю 2 приложения:  
 1. Платформа для обучения добровольцев ЛизаАлерт
-2. CRM система для ресторанного бизнеса Cowapp
+2. Система парсинга и рассылок для SMM
 
 ### Я знаю  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
